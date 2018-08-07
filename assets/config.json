@@ -1,0 +1,78 @@
+{
+    "header": {
+        "profilePicPath": "assets/images/profile_pic.png",
+        "socialMediaProfile": {
+            "linkedIn": "",
+            "github": "",
+            "facebook": "",
+            "twitter": "",
+            "instagram": ""
+        }
+    },
+    "home": {
+        "name": "Priya Thakkar",
+        "designation": "Backend Developer",
+        "description": "In past 3 years and 6 months, I have sharpened various technical and non-technical skills including direct interaction with client and external teams. I love to work on challenging projects with exposure to upcoming technologies or ripening roles towards better career. I am an effective team player with proven strength in problem analysis and solving.\nSpecialties: Java/J2EE, Spring, Hibernate, JSF frameworks.",
+        "email": "priyathakkar.dev@gmail.com",
+        "location": "Ahmedabad, India"
+    },
+    "education": [
+        {
+            "instituteName": "Indus Institute of Technology & Engg.",
+            "courseName": "Computer Science & Engineering",
+            "duration": "2010 - 2014",
+            "description": "I had completed my B.E. in 2014 with an aggregate of 9.37 CGPA."
+        },
+        {
+            "instituteName": "Shree Durga Vidhya Vihar",
+            "courseName": "High School",
+            "duration": "1998 - 2010",
+            "description": "I had completed my schooling in 2010, securing 90% in Higher Secondary(10+2) and 9.4 CGPA in Secondary (10th grade) examinations."
+        }
+    ],
+    "experience": [
+        {
+            "designation": "Software Engineer",
+            "company": "Infostretch",
+            "duration": "March 2017 - Present",
+            "description": "Currently covering all aspects of application development:\n- Requirement gathering/estimations\n- Designing application architecture\n- Backend development & unit testing\n- Deployments & server setup"
+        },
+        {
+            "designation": "Jr. Software Engineer",
+            "company": "Meditab Software",
+            "duration": "July 2014 - Feb 2017",
+            "description": "Hands on experience in developing enterprise applications using design patterns and working with MVC architecture using Struts framework."
+        }
+    ],
+    "skills": [
+        {
+            "skillPercentage": "85",
+            "skillName": "Java",
+            "description": "Having hands on experience in Core Java, JDBC, JSP, Servlets, Spring MVC, Spring Boot, Hibernate, Java Realtime tools and Design Patterns."
+        },
+        {
+            "skillPercentage": "70",
+            "skillName": "J2EE/Spring",
+            "description": "RESTful Web Services development using Spring framework."
+        },
+        {
+            "skillPercentage": "75",
+            "skillName": "SQL",
+            "description": "Have competent proficiency with Oracle, MySQL and MongoDB databases."
+        },
+        {
+            "skillPercentage": "65",
+            "skillName": "Node.js",
+            "description": "Web API development using Express framework and Node.js"
+        },
+        {
+            "skillPercentage": "65",
+            "skillName": "HTML",
+            "description": "Integration of static HTML pages with Java Servlets/JSP."
+        }
+    ],
+    "contact": {
+        "location": "Ahmedabad, Gujarat, India",
+        "email": "priyathakkar.dev@gmail.com"
+    }
+}
